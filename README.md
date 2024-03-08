@@ -13,7 +13,7 @@ https://github.com/SiddharthUchil/DevSecOps-Project/assets/36127139/8cb264a7-5ea
 <br />
 
 
-# Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
+# Deploy Netflix Clone on Cloud using Jenkins
 
 ### **Phase 1: Initial Setup and Deployment**
 
